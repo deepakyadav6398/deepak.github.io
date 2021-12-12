@@ -3,7 +3,7 @@
 <html lang="en">
     <head>
         
-        <title>Saba Document</title>
+        <title>DEEPAK DOCUMENT</title>
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
         <style>
             h3 {
@@ -104,8 +104,7 @@
                <div id="div">
                    <h4>Hi there!!</h4>
                    <h2>I am Saba Kauser</h2>
-                   <p>my name is saba kauser, i'm from india karnataka, i have completed
-                    my graduation in lingaraj appa engineering college bidar, i'm a
+                   <p>my name is DEEPAK YADAV, i'm from MEERUT UTTAR PRADESH, i am persuining my b.tech from KIET Group of institutions ghaziabad, i'm a
                     student of geekster</p>
                     <p>
                         i have outstanding problem soliving and communication skills,
